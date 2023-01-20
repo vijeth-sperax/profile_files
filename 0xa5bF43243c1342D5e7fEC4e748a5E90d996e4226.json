@@ -1,0 +1,19 @@
+{
+    "walletAddress":"0xa5bF43243c1342D5e7fEC4e748a5E90d996e4226",
+    "profileName":"Vijeth",
+    "picture":"https://picsum.photos/id/237/200/300",
+    "info":"",
+    "links":{
+        "website":"",
+        "discord":"",
+        "twitter":"",
+        "medium":"",
+        "github":""
+    },
+    "farmAddress":[
+        "0xe0b8dcf25e8e106c21ee534f696cb43d8af11174",
+        "0x876af63f316442a40d344a2eddc8916f2a37e76a",
+        "0x9870c94ca99b8e15db7164fd623555ef64af8a94",
+        "0x9870c94ca99b8e15db7164fd623555ef64af8a94"
+    ]
+}
